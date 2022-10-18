@@ -11,6 +11,7 @@ export class EmployeesComponent implements OnInit {
   title: string = 'Employee Management System';
   employees: any[] = employees;
   showDp: boolean = true;
+  filter: string = '';
 
   constructor() {}
 

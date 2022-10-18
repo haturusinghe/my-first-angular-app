@@ -7,5 +7,5 @@ import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = 'cosmos-ems';
+  title = 'my-ems';
 }
